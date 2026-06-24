@@ -7,4 +7,4 @@ RUN sed -i 's/listen       80;/listen       8080;/' /etc/nginx/conf.d/default.co
 EXPOSE 8080
 
 CMD ["nginx", "-g", "daemon off;"]
-#chal ja bhai.....
+#chal ja bhai.....rtttt
